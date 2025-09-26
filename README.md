@@ -40,3 +40,4 @@ Ready to create your purr-fect ring? You'll need to have [OpenSCAD](https://open
 This project wouldn't have been possible without the amazing work of others in the community. A huge thank you to:
 
 *   The original customizable ring concept by **[pikafoop](https://www.thingiverse.com/thing:1182425)** on Thingiverse & **[Pikaworx](https://pikaworx.com/)**.
+*   Cat SVG by **[SVG Repo](https://www.svgrepo.com/svg/522779/cat)**.
